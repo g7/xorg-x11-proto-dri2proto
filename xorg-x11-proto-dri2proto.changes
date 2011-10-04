@@ -1,0 +1,24 @@
+* Thu Jun 09 2011 Liu, Xinyun <xinyun.liu@intel.com> - 2.4
+- Added 2.6 patch.
+
+* Thu Jun 09 2011 Liu, Xinyun <xinyun.liu@intel.com> - 2.4
+- dri2proto 2.4
+
+* Tue Mar 02 2010 Li Peng <peng.li@intel.com> 2.3
+- dri2proto 2.3
+
+* Fri Feb 05 2010 Li Peng <peng.li@intel.com> 2.2
+- dri2proto 2.2
+
+* Mon Aug 03 2009 Li Peng <peng.li@intel.com> 2.1
+- dri2-swapbuffers support
+
+* Tue Jun 16 2009 Li Peng <peng.li@intel.com> 2.1
+- dri2proto 2.1
+
+* Thu Apr 23 2009 Li Peng <peng.li@intel.com> 2.0
+- dri2proto 2.0
+
+* Thu Dec 18 2008 Peng Li <peng.li@intel.com> 1.99.3
+- initial import
+
