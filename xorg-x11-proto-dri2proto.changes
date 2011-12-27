@@ -1,3 +1,6 @@
+* Tue Dec 27 2011 Marko Saukko <marko.saukko@cybercom.com> - 2.6
+- Update to upstream version 2.6 and removed dri2proto-2.4-2.6.patch
+
 * Thu Jun 09 2011 Liu, Xinyun <xinyun.liu@intel.com> - 2.4
 - Added 2.6 patch.
 
